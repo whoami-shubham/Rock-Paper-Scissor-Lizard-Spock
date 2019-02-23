@@ -1,0 +1,28 @@
+#scoreboard,#won,#loose,#tie,#play_again{
+	display: none;
+}
+img{
+	width: 100%;
+}
+
+#playground{
+	display: none;
+}
+
+#play{
+	font-size: xx-large;
+	margin-top: 20%;
+}
+
+p{
+	font-size: x-large;
+}
+
+#pc_img,#user_img{
+	visibility: hidden;
+}
+
+
+.five{
+	width: 20%;
+}
